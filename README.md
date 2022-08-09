@@ -7,7 +7,7 @@ Querystal is a data platform of web 3.0 industry to support native business anal
 ## Catalog
 * Overview
 * Producer
-* Consumer
+* [Consumer](./consumer/README.md)
 * Pricing
 
 ## About Us
@@ -21,4 +21,4 @@ email: k7teammates@gmail.com
 ## Career
 Welcome talents from tech, product and marketing to join us.
 
-email: whilgeek@gmail.com  
+email: > 07shoal.puppy@icloud.com
