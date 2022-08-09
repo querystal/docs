@@ -78,7 +78,7 @@ Read a metrics
 metrics(ticker:str, measures:list, dimensions:list)
 
 # query by dataset info
-metrics(databaseName:str, datasetName:str, measures:list, dimensions:list)
+metrics_by_name(databaseName:str, datasetName:str, measures:list, dimensions:list)
 ```
 
 ### Parameters - Columns & Measures
