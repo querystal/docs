@@ -3,6 +3,12 @@
 Dataset are the first-class entity of Querystal.
 Following the traditional data warehouse modeling, there are three types of datasets:
 
+## Architecture
+
+Generally, Querystal follows the traditional data warehouse, classifies the dataset into three layers.
+Operational Dataset, Business Detailed Dataset and Application Dataset.
+<img src="../resources/dw-arch.png"/>
+
 ## Category
 
 *Operational Data*
@@ -10,9 +16,9 @@ Following the traditional data warehouse modeling, there are three types of data
 > blocks, events, transactions, logs. They drive the development of application-layer metrics.
 
 > However, those tables are not essential in most of analytical works. They are relatively large in terms of size, and
-> highlightely, they are updated in real-time.
+> significantly, they are updated in real-time.
 
-*Business Details Data*
+*Business Detailed Data*
 > Business detail tables are classified by business line and topics, such as NFT, stable coins or Dapps. In general, the
 > business detail data are also maintained by Querystal platform.
 
