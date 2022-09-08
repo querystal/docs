@@ -9,23 +9,29 @@ of open dataset with comprehensive data development toolkit. There are three sig
 
 ## Catalog
 
-* [Overview](./overview/README.md)
-    * Dataset
-    * Products
-* [Tutorials](./tutorials/README.md)
-    * Google Sheet Dashboard
-    * Training by Jupyter Notebook
-    * Key-Value Query
-* [Showcase - Producer](./producer/README.md)
-    * Data Developers
-* [Showcase - Consumer](./consumer/README.md)
-    * BI Analysts
+* Overview
+    * [Dataset](./overview/dataset.md)
+    * [Products](./overview/products.md)
+* Showcase - Producer
+    * [Dataset Development](./producer/developers.md)
+* Showcase - Consumer
+    * [BI Analysts]
     * Data Scientists
     * Software Engineers
-* [Pricing](./pricing/README.md)
+* Documentation
+    * Dataset Development
+        * Dataset Exploration
+        * Task & Orchestration
+        * Dataset Publication
+    * Google Sheet Dashboard
+    * Training by Jupyter Notebook
+    * Key-Value API
+* Pricing
     * Cost Architecture
     * Development Incentives
-* [SLA](./sla/README.md)
+* SLA
+* [Privacy Policy](./privacypolicy.md)
+* [Terms of Use](./terms.md)
 
 ## About Us
 
