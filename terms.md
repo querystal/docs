@@ -1,4 +1,5 @@
-Website Terms of Use
+# Website Terms of Use
+
 Version 1.0
 
 The Querystal website located at https://www.querystal.com is a copyrighted work belonging to Querystal Pte, Ltd.
