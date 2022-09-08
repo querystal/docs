@@ -33,6 +33,7 @@ of open dataset with comprehensive data development toolkit. There are three sig
 * [SLA](sla/README.md)
 * [Privacy Policy](./privacypolicy.md)
 * [Terms of Use](./terms.md)
+* [Contact](contact.md)
 
 ## About Us
 
