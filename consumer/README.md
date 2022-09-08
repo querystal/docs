@@ -33,6 +33,6 @@ If a dataset has a ticker, you can identify the desired data by information belo
 
 Querystal has supported clients below:
 
-* [Python 3 SDK - PyQuerystal](python/python-sdk.md)
-* [Google Sheet Add-on](googlesheet/googlesheet-add-on.md)
-* [Key-Value Fetch](kv.md)
+* [Python 3 SDK - PyQuerystal](../docs/python/python-sdk.md)
+* [Google Sheet Add-on](../docs/googlesheet/googlesheet-add-on.md)
+* [Key-Value Fetch](../docs/kv/kv.md)
