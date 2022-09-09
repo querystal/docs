@@ -20,15 +20,11 @@ of open dataset with comprehensive data development toolkit. There are three sig
     * [Software Engineers](./consumer/se.md)
 * Documentation
     * [Dataset Development](docs/dev/datasetdev.md)
-        * Dataset Exploration
-        * Task & Orchestration
-        * Dataset Publication
     * [Google Sheet Integration](docs/googlesheet/googlesheet-add-on.md)
     * [Python 3 Integration](docs/python/python-sdk.md)
     * [Key-Value API Integration](docs/kv/kv.md)
 * Pricing
     * [Cost Architecture](pricing/pricing-arch.md)
-    * [Best Practices](pricing/bestp.md)
     * [Development Incentives](pricing/incentives.md)
 * [SLA](sla/README.md)
 * [Privacy Policy](./privacypolicy.md)
