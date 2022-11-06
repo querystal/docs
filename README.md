@@ -30,8 +30,3 @@ of open dataset with comprehensive data development toolkit. There are three sig
 * [Privacy Policy](./privacypolicy.md)
 * [Terms of Use](./terms.md)
 * [Contact](contact.md)
-
-## About Us
-
-We are a team consists of big data experts from e-commerce, video and public cloud fields, aiming at building an
-easy-to-use public data platform with quality and cost efficiency.
